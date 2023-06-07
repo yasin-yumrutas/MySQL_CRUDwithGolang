@@ -1,0 +1,1 @@
+Burda CRUD işlemlerini MYSQL ile gerçekleştiriyoruz

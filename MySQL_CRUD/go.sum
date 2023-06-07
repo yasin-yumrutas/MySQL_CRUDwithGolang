@@ -1,0 +1,4 @@
+github.com/go-sql-driver/mysql v1.7.1 h1:lUIinVbN1DY0xBg0eMOzmmtGoHwWBbvnWubQUrtU8EI=
+github.com/go-sql-driver/mysql v1.7.1/go.mod h1:OXbVy3sEdcQ2Doequ6Z5BW6fXNQTmx+9S1MCJN5yJMI=
+github.com/go-sql-driver/sphinxql v0.0.0-20130306205020-c8c1b070d697 h1:GH1WGwbLgd4yqQ3RMi1ltbnviZtPa4MmsBOxmZ9dP14=
+github.com/go-sql-driver/sphinxql v0.0.0-20130306205020-c8c1b070d697/go.mod h1:VvuSFWpKdPMqLSoYrfpd0Pdcv/ryq2ch8J144XzTEA4=
